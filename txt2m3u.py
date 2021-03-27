@@ -35,7 +35,7 @@ def getIPTVlist():
                     'title': item[0],
                     'url': item[1],
                 }
-            IPTVList.append(data)
+                IPTVList.append(data)
     print('共读取 %s 个直播源！' %(len(IPTVList)))
     return IPTVList
 
