@@ -1,0 +1,44 @@
+name: txt2m3u
+
+on:
+  push:
+    branches: main
+  schedule:
+    - cron: '30 22 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install Request
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: txt2m3u
+      run: |
+        python txt2m3u.py
+      env:
+        FILE_PATH: ${{ secrets.FILE_PATH }}
+        TG_TOKEN: ${{ secrets.TG_TOKEN }}
+        TG_TALK_ID: ${{ secrets.TG_TALK_ID }}
+
+    - name: Commit #上传新的数据到仓库
+      run: |
+        git config --global user.email github-actions@github.com
+        git config --global user.name github-actions
+        git add output.m3u
+        git commit -m "update m3u data"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        repository: ${{ secrets.DATA }}
