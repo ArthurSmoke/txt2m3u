@@ -38,8 +38,10 @@ jobs:
       run: |
         git config --global user.email github-actions@github.com
         git config --global user.name github-actions
+        git pull
         git add output.m3u
         git commit -m "update m3u data"
+        
 
     - name: Push changes
       uses: ad-m/github-push-action@master
