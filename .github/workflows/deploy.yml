@@ -30,6 +30,10 @@ jobs:
         TG_TOKEN: ${{ secrets.TG_TOKEN }}
         TG_TALK_ID: ${{ secrets.TG_TALK_ID }}
 
+    - name: rm
+      run: |
+        rm -f input.txt
+
     - name: Commit #上传新的数据到仓库
       run: |
         git config --global user.email github-actions@github.com
@@ -40,5 +44,5 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.TOKEN }}
         repository: ${{ secrets.DATA }}
