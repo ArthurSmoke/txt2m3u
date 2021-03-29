@@ -30,7 +30,7 @@ jobs:
         TG_TOKEN: ${{ secrets.TG_TOKEN }}
         TG_TALK_ID: ${{ secrets.TG_TALK_ID }}
 
-    - name: rm
+    - name: Remove input
       run: |
         rm -f input.txt
 
@@ -41,18 +41,3 @@ jobs:
         author-name: github-actions
         commit-message: 'update m3u data'
         remote: origin
-        
-#     - name: Commit #上传新的数据到仓库
-#       run: |
-#         git config --global user.email github-actions@github.com
-#         git config --global user.name github-actions
-#         git pull
-#         git add output.m3u
-#         git commit -m "update m3u data"
-        
-
-#     - name: Push changes
-#       uses: ad-m/github-push-action@master
-#       with:
-#         github_token: ${{ secrets.TOKEN }}
-#         repository: ${{ secrets.DATA }}
