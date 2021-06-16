@@ -1,309 +1,437 @@
 #EXTM3U
-#EXTINF:-1, VR测试片段 4M1920
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225866/index.m3u8
-#EXTINF:-1, 咪咕4K 31M2160HDR
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8
-#EXTINF:-1, 纯享4K 13M2160
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8
-#EXTINF:-1, CCTV1 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1, CCTV1 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225769/index.m3u8
-#EXTINF:-1, CCTV1 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1, CCTV2 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1, CCTV1 5M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1, CCTV2 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1, CCTV3 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1, CCTV3 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1, CCTV4 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
 #EXTINF:-1, CCTV4 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225753/index.m3u8
-#EXTINF:-1, CCTV5 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1, CCTV5 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1, CCTV5 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
 #EXTINF:-1, CCTV5+ 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1, CCTV6 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1, CCTV6 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1, CCTV7 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225700/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
 #EXTINF:-1, CCTV7 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1, CCTV8 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1, CCTV8 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225630/index.m3u8
-#EXTINF:-1, CCTV9 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1, CCTV9 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1, CCTV10 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225704/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
 #EXTINF:-1, CCTV10 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1, CCTV11 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1, CCTV11 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225750/index.m3u8
-#EXTINF:-1, CCTV12 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225645/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
 #EXTINF:-1, CCTV12 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1, CCTV13 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1, CCTV13 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225787/index.m3u8
-#EXTINF:-1, CCTV14 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225648/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
 #EXTINF:-1, CCTV14 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1, CCTV15 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225693/index.m3u8
-#EXTINF:-1, CCTV15 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225830/index.m3u8
-#EXTINF:-1, CCTV17 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1, CCTV17 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8
-#EXTINF:-1, 东南卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1, 东方卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1, 东方卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8
-#EXTINF:-1, 北京卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1, 北京卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1, 天津卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1, 中国交通 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
+#EXTINF:-1, 中国教育1 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
+#EXTINF:-1, 山东齐鲁 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1, 山东体育 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1, 山东新闻 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1, 山东农科 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1, 山东少儿 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1, 山东文旅 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1, 山东生活 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1, 山东综艺 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1, 山东教育卫视 5M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1, 东南卫视 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1, 东方卫视 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1, 北京卫视 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1, 四川卫视 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8
 #EXTINF:-1, 天津卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
-#EXTINF:-1, 安徽卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225701/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
 #EXTINF:-1, 安徽卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1, 山东卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1, 山东卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1, 广东南方卫视上星 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
-#EXTINF:-1, 广东卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1, 广东卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1, 江苏卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225722/index.m3u8
-#EXTINF:-1, 江苏卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1, 江西卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1, 浙江卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1, 浙江卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225695/index.m3u8
-#EXTINF:-1, 深圳卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225725/index.m3u8
-#EXTINF:-1, 深圳卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225691/index.m3u8
-#EXTINF:-1, 湖北卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225721/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1, 山东卫视 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1, 广东卫视 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1, 江苏卫视 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1, 江西卫视 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
+#EXTINF:-1, 河北卫视 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1, 浙江卫视 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1, 海南卫视 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1, 深圳卫视 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
 #EXTINF:-1, 湖北卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1, 湖南卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
 #EXTINF:-1, 湖南卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225692/index.m3u8
-#EXTINF:-1, 辽宁卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225779/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1, 甘肃卫视 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1, 贵州卫视 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
 #EXTINF:-1, 辽宁卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1, 重庆卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
 #EXTINF:-1, 重庆卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1, 黑龙江卫视 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1, 黑龙江卫视 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225686/index.m3u8
-#EXTINF:-1, 上海纪实人文 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225688/index.m3u8
-#EXTINF:-1, 北京冬奥纪实 8M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1, NewTV中国功夫 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225690/index.m3u8
-#EXTINF:-1, NewTV军事评论 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225749/index.m3u8
-#EXTINF:-1, NewTV军旅剧场 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
-#EXTINF:-1, NewTV农业致富 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225687/index.m3u8
-#EXTINF:-1, NewTV动作电影 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225703/index.m3u8
-#EXTINF:-1, NewTV古装剧场 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1, NewTV家庭剧场 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1, NewTV怡伴健康 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225684/index.m3u8
-#EXTINF:-1, NewTV惊悚悬疑 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225746/index.m3u8
-#EXTINF:-1, NewTV明星大片 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1, NewTV武搏世界 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225758/index.m3u8
-#EXTINF:-1, NewTV海外剧场 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225763/index.m3u8
-#EXTINF:-1, NewTV潮妈辣婆 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225709/index.m3u8
-#EXTINF:-1, NewTV炫舞未来 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1, NewTV爱情喜剧 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225698/index.m3u8
-#EXTINF:-1, NewTV精品体育 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225724/index.m3u8
-#EXTINF:-1, NewTV精品大剧 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225737/index.m3u8
-#EXTINF:-1, NewTV精品纪录 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1, NewTV金牌综艺 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225755/index.m3u8
-#EXTINF:-1, 黑莓动画 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1, 黑莓电影 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1, 黑莓电竞 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1, 贺州综合 3M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225771/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225774/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225777/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225808/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225811/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225839/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225842/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225845/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225848/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225851/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225854/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225857/index.m3u8
-#EXTINF:-1, 咪咕视频 4M1080
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225860/index.m3u8
-#EXTINF:-1, CCTV13 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
-#EXTINF:-1, CCTV13 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
-#EXTINF:-1, CGTN纪录 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225707/index.m3u8
-#EXTINF:-1, 中国教育1 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225776/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1, 黑龙江卫视 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1, 海看剧场 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000403/index.m3u8
+#EXTINF:-1, 海看少儿 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000402/index.m3u8
+#EXTINF:-1, 海看热播 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
+#EXTINF:-1, 海看电竞 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000408/index.m3u8
+#EXTINF:-1, 海看爱宠 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000202/index.m3u8
+#EXTINF:-1, 海看健康 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000401/index.m3u8
+#EXTINF:-1, 海看教育 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000204/index.m3u8
+#EXTINF:-1, Hot亚洲影院 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
+#EXTINF:-1, Hot欧美影院 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002003/index.m3u8
+#EXTINF:-1, CCTV1 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000001/index.m3u8
+#EXTINF:-1, CCTV2 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000002/index.m3u8
+#EXTINF:-1, CCTV3 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000003/index.m3u8
+#EXTINF:-1, CCTV4 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000004/index.m3u8
+#EXTINF:-1, CCTV6 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000006/index.m3u8
+#EXTINF:-1, CCTV7 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000007/index.m3u8
+#EXTINF:-1, CCTV8 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000008/index.m3u8
+#EXTINF:-1, CCTV11 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000011/index.m3u8
+#EXTINF:-1, CCTV13 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000013/index.m3u8
+#EXTINF:-1, CCTV14 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000014/index.m3u8
+#EXTINF:-1, CCTV15 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000015/index.m3u8
+#EXTINF:-1, CGTN 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
 #EXTINF:-1, 中国教育4 576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225723/index.m3u8
-#EXTINF:-1, 云南卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
-#EXTINF:-1, 内蒙古卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225751/index.m3u8
-#EXTINF:-1, 吉林卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1, 四川卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1, 宁夏卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225782/index.m3u8
-#EXTINF:-1, 山西卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
-#EXTINF:-1, 广西卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1, 新疆卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
-#EXTINF:-1, 河北卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225773/index.m3u8
-#EXTINF:-1, 河南卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
-#EXTINF:-1, 海南卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225752/index.m3u8
-#EXTINF:-1, 甘肃卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
-#EXTINF:-1, 西藏卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-#EXTINF:-1, 贵州卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225770/index.m3u8
-#EXTINF:-1, 陕西卫视 4M1576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225754/index.m3u8
-#EXTINF:-1, 青海卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225705/index.m3u8
-#EXTINF:-1, 厦门卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225823/index.m3u8
-#EXTINF:-1, 广东珠江卫视 720
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1, 山东教育卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1, 新疆兵团卫视 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
-#EXTINF:-1, 上海哈哈炫动 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1, 北京卡酷少儿 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1, 广东嘉佳卡通 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
-#EXTINF:-1, 江苏优漫卡通 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:-1, 湖南金鹰卡通 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225702/index.m3u8
-#EXTINF:-1, 湖南金鹰纪实 4M576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1, 河池教育 576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225836/index.m3u8
-#EXTINF:-1, 河池新闻综合 576
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225756/index.m3u8
-#EXTINF:-1, 北京家有购物 720
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
+#EXTINF:-1, 山东齐鲁 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000052/index.m3u8
+#EXTINF:-1, 山东体育 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000057/index.m3u8
+#EXTINF:-1, 山东新闻 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
+#EXTINF:-1, 山东农科 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000058/index.m3u8
+#EXTINF:-1, 山东少儿 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000059/index.m3u8
+#EXTINF:-1, 山东文旅 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000056/index.m3u8
+#EXTINF:-1, 山东生活 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000055/index.m3u8
+#EXTINF:-1, 山东综艺 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000054/index.m3u8
+#EXTINF:-1, 东南卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000028/index.m3u8
+#EXTINF:-1, 东方卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000022/index.m3u8
+#EXTINF:-1, 云南卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000039/index.m3u8
+#EXTINF:-1, 内蒙古卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8
+#EXTINF:-1, 北京卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000019/index.m3u8
+#EXTINF:-1, 吉林卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000036/index.m3u8
+#EXTINF:-1, 四川卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000033/index.m3u8
+#EXTINF:-1, 宁夏卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000043/index.m3u8
+#EXTINF:-1, 安徽卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000020/index.m3u8
+#EXTINF:-1, 山东卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000051/index.m3u8
+#EXTINF:-1, 山西卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8
+#EXTINF:-1, 广东卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000025/index.m3u8
+#EXTINF:-1, 广西卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000038/index.m3u8
+#EXTINF:-1, 新疆卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000044/index.m3u8
+#EXTINF:-1, 江苏卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000018/index.m3u8
+#EXTINF:-1, 江西卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000035/index.m3u8
+#EXTINF:-1, 河南卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000037/index.m3u8
+#EXTINF:-1, 浙江卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000016/index.m3u8
+#EXTINF:-1, 海南卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000030/index.m3u8
+#EXTINF:-1, 深圳卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000024/index.m3u8
+#EXTINF:-1, 湖南卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000017/index.m3u8
+#EXTINF:-1, 甘肃卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000046/index.m3u8
+#EXTINF:-1, 西藏卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000045/index.m3u8
+#EXTINF:-1, 贵州卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000041/index.m3u8
+#EXTINF:-1, 重庆卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000023/index.m3u8
+#EXTINF:-1, 陕西卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000029/index.m3u8
+#EXTINF:-1, 青海卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000042/index.m3u8
+#EXTINF:-1, 黑龙江卫视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000027/index.m3u8
+#EXTINF:-1, IPTV经典电影 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000604/index.m3u8
+#EXTINF:-1, IPTV少儿动画 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000605/index.m3u8
+#EXTINF:-1, IPTV相声小品 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000606/index.m3u8
+#EXTINF:-1, IPTV热播剧场 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000608/index.m3u8
+#EXTINF:-1, IPTV魅力时尚 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000609/index.m3u8
+#EXTINF:-1, IPTV法制 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.m3u8
+#EXTINF:-1, 喜剧影院 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000602/index.m3u8
+#EXTINF:-1, 动作影院 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000603/index.m3u8
+#EXTINF:-1, 墨宝 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000610/index.m3u8
+#EXTINF:-1, 光影 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000611/index.m3u8
+#EXTINF:-1, 美人 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000612/index.m3u8
+#EXTINF:-1, 音乐现场 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000613/index.m3u8
+#EXTINF:-1, 城市剧场 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000614/index.m3u8
+#EXTINF:-1, 地理 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000615/index.m3u8
+#EXTINF:-1, 美妆 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000616/index.m3u8
+#EXTINF:-1, 军旅剧场 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000617/index.m3u8
+#EXTINF:-1, 足球 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000618/index.m3u8
+#EXTINF:-1, 高尔夫网球 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000620/index.m3u8
+#EXTINF:-1, 古装剧场 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000622/index.m3u8
+#EXTINF:-1, 解密 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000624/index.m3u8
+#EXTINF:-1, 动画 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000625/index.m3u8
+#EXTINF:-1, 早教 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000627/index.m3u8
+#EXTINF:-1, 台球 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000628/index.m3u8
+#EXTINF:-1, 好学生 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000629/index.m3u8
+#EXTINF:-1, 武术 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000634/index.m3u8
+#EXTINF:-1, 家庭影院 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000635/index.m3u8
+#EXTINF:-1, 国学 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000636/index.m3u8
+#EXTINF:-1, 江苏财富天下 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1, 江苏优漫卡通 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
+#EXTINF:-1, 上海哈哈炫动 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
+#EXTINF:-1, 湖南金鹰卡通 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
+#EXTINF:-1, 北京卡酷少儿 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000048/index.m3u8
+#EXTINF:-1, 济南新闻综合 7M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1, 临沂综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
+#EXTINF:-1, 兖州新闻 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+#EXTINF:-1, 单县综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001079/index.m3u8
+#EXTINF:-1, 嘉祥新闻综合 5M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001016/index.m3u8
+#EXTINF:-1, 夏津公共 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001070/index.m3u8
+#EXTINF:-1, 夏津综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001069/index.m3u8
+#EXTINF:-1, 宁阳1 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001071/index.m3u8
+#EXTINF:-1, 巨野新闻 6M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+#EXTINF:-1, 平原新闻 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
+#EXTINF:-1, 广饶新闻综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001043/index.m3u8
+#EXTINF:-1, 微山1 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001078/index.m3u8
+#EXTINF:-1, 德州公共 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000207/index.m3u8
+#EXTINF:-1, 德州新闻综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000206/index.m3u8
+#EXTINF:-1, 梁山新闻综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001075/index.m3u8
+#EXTINF:-1, 武城新闻综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
+#EXTINF:-1, 武城综艺影视 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001060/index.m3u8
+#EXTINF:-1, 泰安综合 5M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
+#EXTINF:-1, 济宁综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
+#EXTINF:-1, 淄博公共 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
+#EXTINF:-1, 淄博新闻 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
+#EXTINF:-1, 淄博生活 3M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000294/index.m3u8
+#EXTINF:-1, 禹城综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001061/index.m3u8
+#EXTINF:-1, 禹城综艺 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
+#EXTINF:-1, 章丘1 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001073/index.m3u8
+#EXTINF:-1, 肥城综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8
+#EXTINF:-1, 茌平综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8
+#EXTINF:-1, 邹城新闻综合 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001038/index.m3u8
+#EXTINF:-1, 邹平新闻 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
+#EXTINF:-1, 郓城新闻 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1, 齐河新闻 8M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+#EXTINF:-1, 济南商务 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000066/index.m3u8
+#EXTINF:-1, 济南娱乐 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
+#EXTINF:-1, 济南少儿 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000067/index.m3u8
+#EXTINF:-1, 济南影视 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000064/index.m3u8
+#EXTINF:-1, 济南教育 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
+#EXTINF:-1, 济南新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000061/index.m3u8
+#EXTINF:-1, 济南生活 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000063/index.m3u8
+#EXTINF:-1, 济南科教 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000245/index.m3u8
+#EXTINF:-1, 济南都市 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
+#EXTINF:-1, 济南鲁中 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1, 东平新闻 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
+#EXTINF:-1, 东明新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001065/index.m3u8
+#EXTINF:-1, 东营公共 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000227/index.m3u8
+#EXTINF:-1, 东营新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000226/index.m3u8
+#EXTINF:-1, 临沂公共 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000256/index.m3u8
+#EXTINF:-1, 临沂农科 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000121/index.m3u8
+#EXTINF:-1, 兰陵综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8
+#EXTINF:-1, 冠县综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
+#EXTINF:-1, 商河综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
+#EXTINF:-1, 宁阳2 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001072/index.m3u8
+#EXTINF:-1, 定陶1 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001063/index.m3u8
+#EXTINF:-1, 平阴综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001050/index.m3u8
+#EXTINF:-1, 新泰乡村 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
+#EXTINF:-1, 新泰新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
+#EXTINF:-1, 新矿新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000268/index.m3u8
+#EXTINF:-1, 无棣综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001024/index.m3u8
+#EXTINF:-1, 曲阜新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001052/index.m3u8
+#EXTINF:-1, 枣庄教育 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8
+#EXTINF:-1, 枣庄新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001025/index.m3u8
+#EXTINF:-1, 桓台1 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001020/index.m3u8
+#EXTINF:-1, 沂源新闻 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
+#EXTINF:-1, 沾化综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001035/index.m3u8
+#EXTINF:-1, 泗水新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001081/index.m3u8
+#EXTINF:-1, 泰安公共 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
+#EXTINF:-1, 济宁公共 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000241/index.m3u8
+#EXTINF:-1, 济宁教育 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000239/index.m3u8
+#EXTINF:-1, 济阳综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001030/index.m3u8
+#EXTINF:-1, 淄博科教 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000295/index.m3u8
+#EXTINF:-1, 淄博都市 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000293/index.m3u8
+#EXTINF:-1, 滕州综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001028/index.m3u8
+#EXTINF:-1, 滨州公共 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000221/index.m3u8
+#EXTINF:-1, 滨州新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000220/index.m3u8
+#EXTINF:-1, 聊城公共 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1, 聊城综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000250/index.m3u8
+#EXTINF:-1, 菏泽新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000232/index.m3u8
+#EXTINF:-1, 菏泽经济生活 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000234/index.m3u8
+#EXTINF:-1, 蒙阴1 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001031/index.m3u8
+#EXTINF:-1, 金乡新闻 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001034/index.m3u8
+#EXTINF:-1, 长清新闻 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
+#EXTINF:-1, 阳信新闻综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001036/index.m3u8
+#EXTINF:-1, 高青综合 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001023/index.m3u8
+#EXTINF:-1, 山东居家购物 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
+#EXTINF:-1, 聚鲨环球精选 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000706/index.m3u8
+#EXTINF:-1, 江苏好享购物 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000707/index.m3u8
+#EXTINF:-1, 北京家有购物 576
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000708/index.m3u8
